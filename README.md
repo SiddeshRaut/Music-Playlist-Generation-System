@@ -20,22 +20,26 @@
 ## 🛠️ Technologies Used
 
 ### Backend
+
 - Python
 - Flask
 
 ### Machine Learning
+
 - Scikit-learn
 - NumPy
 - Pandas
 - Joblib / Pickle
 
 ### Frontend
+
 - HTML5
 - CSS3
 - JavaScript
 - Bootstrap
 
 ### Tools
+
 - Git
 - GitHub
 - VS Code
@@ -359,8 +363,6 @@ Computer Engineering | Software Development | Machine Learning
 
 ---
 
-## 📄 License
+## 📜 License
 
-This project is intended for educational and development purposes.
-
-Add an appropriate open-source license such as **MIT License** if you plan to distribute the project publicly.
+This project is licensed under the MIT License.
