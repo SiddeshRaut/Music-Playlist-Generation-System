@@ -1,0 +1,5 @@
+Deployment/.venv/
+Deployment/uploads/
+Deployment/__pycache__/
+Deployment/tempCodeRunnerFile.py
+*.py[cod]
